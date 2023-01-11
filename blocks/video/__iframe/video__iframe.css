@@ -4,3 +4,12 @@
   padding: 0 10px;
   border: none;
 }
+
+.video__iframe:first-child {
+  padding-left: 0;
+}
+
+.video__iframe:last-child {
+  padding-right: 0;
+}
+
